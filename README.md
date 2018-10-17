@@ -1,5 +1,5 @@
 
-![Photo](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Hello_kitty_character_portrait.png/200px-Hello_kitty_character_portrait.png)
+![Photo](https://github.com/benestruv/Presentation/blob/master/index.png)
 
 
 ```
